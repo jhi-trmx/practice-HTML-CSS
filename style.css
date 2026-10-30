@@ -1,0 +1,23 @@
+.IG{
+    height: 40px;
+    width: 115px;
+    background-color: rgb(255, 58, 58);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.tt{
+    height: 40px;
+    width: 115px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.yuki{
+display: block;
+max-width: 100px;
+height: auto;
+}
